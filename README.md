@@ -1,6 +1,6 @@
 ### Hi, This is Al Sayeed here👋<hr>
-Contact:<hr>
-<center>
+<b><u>Contact:</u></b>
+<div style="text-align: center; place-items: center;">
     <a href="https://www.facebook.com/AlSayeedOfficial">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
