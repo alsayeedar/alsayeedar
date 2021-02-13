@@ -33,6 +33,9 @@
     <a href="https://github.com/alsayeedar">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </a>
+    <a href="https://github.com/alsayeedar">
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
 </div>
 <!--
 **alsayeedar/alsayeedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
