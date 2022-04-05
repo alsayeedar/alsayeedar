@@ -38,8 +38,8 @@
     </a>
 </div>
 
-## Skills:
-<img width="550px" alt="Al Sayeed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=alsayeedar&show_icons=true"/>
+## Statistics:
+<a href="https://github.com/alsayeedar"><img width="550px" alt="Al Sayeed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=alsayeedar&show_icons=true"/></a>
 <!--
 **alsayeedar/alsayeedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
