@@ -37,6 +37,8 @@
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
 </div>
+## Statistics
+<img width="550px" alt="Al Sayeed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=alsayeedar&show_icons=true"/>
 <!--
 **alsayeedar/alsayeedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
