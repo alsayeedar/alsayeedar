@@ -13,6 +13,9 @@
     <a href="https://wa.me/8801868188006">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
+    <a href="https://www.priyotrick.com/">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
 </div>
 
 ## Skills:
