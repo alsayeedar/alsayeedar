@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="https://www.priyotrick.com/">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+        <img src="https://img.shields.io/badge/website-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
     </a>
 </div>
 
