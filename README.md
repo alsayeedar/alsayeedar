@@ -1,45 +1,9 @@
 # Hi, This is Al Sayeed here👋
 ## Contact:
-<div style="text-align: center; place-items: center;">
-    <a href="https://www.facebook.com/AlSayeedOfficial">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/AlSayeedAR">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://t.me/AlSayeedAR">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://wa.me/8801868188006">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="https://www.priyotrick.com/">
-        <img src="https://img.shields.io/badge/website-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-    </a>
-</div>
+[![Find me on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AlSayeedOfficial) [![Follow me on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AlSayeedAR) [![Join on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlSayeedAR) [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801868188006) [![Visit my Website](https://img.shields.io/badge/website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.priyotrick.com/)
 
 ## Skills:
-<div style="text-align: center; place-items: center;">
-    <a href="https://github.com/alsayeedar">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="https://github.com/alsayeedar">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="https://github.com/alsayeedar">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-    </a>
-    <a href="https://github.com/alsayeedar">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
-    </a>
-    <a href="https://github.com/alsayeedar">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    </a>
-    <a href="https://github.com/alsayeedar">
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    </a>
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Statistics:
 <a href="https://github.com/alsayeedar"><img width="550px" alt="Al Sayeed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=alsayeedar&show_icons=true"/></a>
